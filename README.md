@@ -1,4 +1,4 @@
-## Hi there, I am Ananya👋
+## Hi there, I am Annie👋
   
 # 💫 About Me:
 👩‍💻I am a Data and AI enthusiat staring my journey and learning in Tech <br>🎓I'm a 3rd year Comupter science student at Amity University, Uttar Pradesh, Inida <br>✍️Also write about my work on Medium <br>🌌Often write verses or blogs on Wordpress<br>
