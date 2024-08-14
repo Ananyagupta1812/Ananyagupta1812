@@ -1,6 +1,6 @@
 # Hi there, I'm Annie!
 ## 💫 About Me:
-👩‍💻I am a Data and AI enthusiat staring my journey and learning in Tech.<br>🎓I'm a 3rd year Comupter science student at Amity University, Uttar Pradesh, Inida<br>✍️Also write about my work and thoughts on Medium.<br>🌌Often write verses or blogs on Wordpress.
+👩‍💻I am a Data and AI/ML enthusiat staring my journey and learning in Tech.<br>🎓I'm a 3rd year Comupter science student at Amity University, Uttar Pradesh, Inida<br>✍️Also write about my work and thoughts on Medium.<br>🌌Often write verses or blogs on Wordpress.
 
 
 ## 🌐 Socials:
