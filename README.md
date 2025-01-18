@@ -1,6 +1,6 @@
 # Hi there, I'm Anny!
 ## 💫 About Me:
-👩‍💻I'm a Dta Analyst and Scientist, deep diving into the complexities  of data and tech.<br>🎓I'm a 3rd year Comupter science student at Amity University, Uttar Pradesh, India<br>✍️I write about my work and thoughts on Medium.<br>🌌Often write verses or blogs on Wordpress.
+👩‍💻I'm pursuing Data Science and Analytics, deep diving into the complexities  of data and tech.<br>🎓I'm a 3rd year Comupter science student at Amity University, Uttar Pradesh, India<br>✍️I write about my work and thoughts on Medium.<br>🌌Often write verses or blogs on Wordpress.
 
 
 ## 🌐 Socials:
