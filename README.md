@@ -1,4 +1,4 @@
-# Hi there, I'm Ananya!
+# Hi there, I'm Ananya!👋🏻
 ## 💫 About Me:
 👩‍💻I'm pursuing Data Science and Aritificial Intelligence, deep diving into the complexities  of data and tech.<br>🎓I'm a final year Comupter science student at Amity University, Uttar Pradesh, India<br>✍️I write about my work and thoughts on Medium.<br>🌌Often write verses or blogs on Wordpress.
 
