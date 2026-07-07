@@ -1,6 +1,6 @@
 # Hi there, I'm Ananya!👋🏻
 ## 💫 About Me:
-👩‍💻I'm pursuing Data Science and Aritificial Intelligence, deep diving into the complexities  of data and tech.<br>🎓I'm a final year Comupter science student at Amity University, Uttar Pradesh, India.<br>✍️I write about my learnings in tech and thoughts on Medium and Wordpress.
+👩‍💻I am a Data Engineer Trainee working at Celebal Technologies.<br>✍️I write about my learnings in tech and thoughts on Medium and Wordpress.
 
 
 ## 🌐 Socials:
