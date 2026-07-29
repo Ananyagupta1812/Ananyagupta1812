@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Ananya%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open-Source%20Contributor&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:A78BFA&height=220&section=header&text=Ananya%20Gupta&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Open-Source%20Contributor&descAlignY=60&descSize=18&descColor=E9D5FF" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=ETL+%2F+ELT+Pipelines+on+Databricks+%E2%9A%A1;PySpark+%7C+Delta+Lake+%7C+Unity+Catalog;Azure+Data+Engineering+%7C+CI%2FCD;AI-powered+Applications+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=%F0%9F%94%A5+ETL+%2F+ELT+Pipelines+on+Databricks;%E2%9A%A1+PySpark+%7C+Delta+Lake+%7C+Unity+Catalog;%E2%98%81%EF%B8%8F+Azure+Data+Engineering+%7C+CI%2FCD;%F0%9F%A4%96+LLM-powered+AI+Applications;%F0%9F%9A%80+Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,63 +12,118 @@
 
 ## 🌌 About Me
 
+<table>
+<tr>
+<td valign="top" width="58%">
+
+### Hi, I'm Ananya 👋
+
+I'm a **Data Engineer Trainee** at **Celebal Technologies** — a named Databricks partner — where I build production-grade distributed data pipelines on **Azure + Databricks**.
+
 ```python
 class Ananya:
-    name       = "Ananya Gupta"
-    role       = "Data Engineer Trainee @ Celebal Technologies"
-    university = "B.Tech CSE — Amity University, Noida (CGPA: 8.55)"
-    location   = "India 🇮🇳"
+    role     = "Data Engineer @ Celebal Technologies"
+    degree   = "B.Tech CSE · Amity University · 8.55 CGPA"
+    location = "India 🇮🇳"
 
-    focus = [
-        "Scalable ETL/ELT Pipelines",
-        "Databricks + Unity Catalog",
-        "AI-integrated Data Workflows",
-        "Cloud-native Architecture on Azure",
-    ]
+    stack    = ["PySpark", "Databricks", "Delta Lake",
+                "Unity Catalog", "Azure", "LLMs"]
 
-    currently_building = "Production-grade distributed data pipelines"
-    ask_me_about       = ["PySpark", "Delta Lake", "LLM pipelines", "Databricks"]
+    building = "Scalable, production-grade data pipelines"
+    motto    = "Turn raw data into decisions 🚀"
 ```
+
+- 🔭 **Currently:** PySpark pipelines, Unity Catalog semantic layer & Lakebase OLTP
+- 🧠 **Exploring:** LLM integration in data workflows & MCP servers
+- 🏆 **Won:** Tata Crucible · SIH 2025 · Academic Merit Scholarship (4×)
+- 💬 **Ask me about:** PySpark · Delta Lake · Unity Catalog · AI Pipelines
+
+</td>
+<td valign="top" width="42%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Coding GIF" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Engineering-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Tech Stack & Proficiency
+## 🛠️ Tech Stack
+
+### 🐍 Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cpp,linux,bash&theme=dark" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Spark%20SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="50"/>
+</p>
+
+### 🔥 Data Engineering
+<p>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Unity%20Catalog-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Data%20Warehousing-0052CC?style=for-the-badge&logo=amazons3&logoColor=white" height="50"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,git,github,gitlab,githubactions&theme=dark" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/ADLS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="50"/>
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Whisper%20ASR-412991?style=for-the-badge&logo=openai&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/MCPs-A78BFA?style=for-the-badge&logoColor=white" height="50"/>
+</p>
+
+### 🌐 Full-Stack (Projects)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite,prisma&theme=dark" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="50"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 🐍 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Spark SQL](https://img.shields.io/badge/Spark_SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ananyagupta1812&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyagupta1812&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&langs_count=8" />
 
-### 🔧 Data Engineering
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Streaming-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![dbt](https://img.shields.io/badge/ETL%2FELT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+</div>
 
-### ☁️ Cloud & DevOps
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/ADF-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+<div align="center">
+<br/>
 
-### 🤖 AI / ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper_(ASR)-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ananyagupta1812&theme=radical&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=ffffff)](https://git.io/streak-stats)
 
-### 🌐 Full-Stack (Projects)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Ananya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananyagupta1812&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&area_color=6D28D9&hide_border=true&custom_title=Ananya%27s%20Contribution%20Graph&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -76,24 +133,7 @@ class Ananya:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ananyagupta1812&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ananyagupta1812&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyagupta1812&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ananyagupta1812&theme=radical&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ananyagupta1812&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -103,14 +143,46 @@ class Ananya:
 
 <div align="center">
 
-[![MindSpace](https://github-readme-stats.vercel.app/api/pin/?username=Ananyagupta1812&repo=Mind_Space&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA)](https://github.com/Ananyagupta1812/Mind_Space)
+<a href="https://github.com/Ananyagupta1812/Mind_Space">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananyagupta1812&repo=Mind_Space&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA&description_lines_count=3" />
+</a>
 
 </div>
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🧠 **MindSpace** | AI-powered mental health companion — ETL pipelines for multimodal journal data, sentiment analysis, mood dashboards | React · Node.js · Groq · Whisper · Prisma |
-| 🚦 **Traffic Saarthi** | Real-time urban route optimization — YOLO v8 computer vision, TomTom API integration, 25% travel-time reduction | Python · YOLO v8 · Streamlit · TomTom API |
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 [MindSpace](https://github.com/Ananyagupta1812/Mind_Space) — AI Mental Health Companion
+
+> Full-stack wellness platform with LLM-powered data pipelines
+
+- 🔄 Scalable **ETL pipelines** transforming multimodal journal data (text · audio · video) into analytics-ready datasets
+- 🎙️ **Whisper + LLM** automated transcription, sentiment analysis & enrichment workflows
+- 📊 Interactive **mood trend dashboards** with emotional insights & engagement metrics
+- 🏗️ Modular, asynchronous architecture built for production reliability
+
+**Stack:** `React` · `Node.js` · `Groq` · `Whisper` · `Prisma` · `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚦 Traffic Saarthi — Urban Route Optimization
+
+> Real-time CV pipeline for smarter city navigation
+
+- 🎯 **YOLO v8** computer vision pipeline — detects & analyzes live traffic conditions
+- 🗺️ **TomTom API** integration surfaced via a Streamlit UI for end-user routing
+- 📉 Deployed scalable data pipelines achieving up to **25% reduction** in estimated travel time
+- 🔁 Smarter data-driven route planning with real-time inference
+
+**Stack:** `Python` · `YOLO v8` · `Streamlit` · `TomTom API` · `OpenCV`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -118,17 +190,22 @@ class Ananya:
 
 <div align="center">
 
-| 🏅 Certification | Issuer |
-|---|---|
-| Databricks Associate | Databricks |
+| 🏅 Certification | 🏛️ Issuer |
+|:---|:---|
+| Databricks Certified Associate | Databricks |
 | Foundation of Data Science | Google |
 | Software Conceptual Design | NPTEL |
 | Python for Data Science | NPTEL |
 | Artificial Intelligence Workshop | IIT Roorkee |
 
-</div>
+<br/>
 
-🏆 **Tata Crucible Recipient** &nbsp;|&nbsp; 🥇 **Smart India Hackathon 2025** &nbsp;|&nbsp; ⚡ **Cybercup 4.0** &nbsp;|&nbsp; 🎖️ **Academic Merit Scholarship (4×)**
+<img src="https://img.shields.io/badge/🏆%20Tata%20Crucible%20Recipient-FFD700?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/⚡%20Smart%20India%20Hackathon%202025-FF6B35?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🥈%20Cybercup%204.0-6D28D9?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🎖️%20Merit%20Scholarship%20(4×)-10B981?style=for-the-badge&logoColor=white" />
+
+</div>
 
 ---
 
@@ -147,10 +224,14 @@ class Ananya:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+
+<br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ananyagupta1812&color=A78BFA&style=flat-square&label=Profile+Views)
 
-*"Turning raw data into decisions — one pipeline at a time."*
+*"Turning raw data into decisions — one pipeline at a time."* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:7C3AED,100:6D28D9&height=120&section=footer" width="100%"/>
 
 </div>
