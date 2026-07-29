@@ -91,29 +91,18 @@ class Ananya:
   <img src="https://img.shields.io/badge/MCPs-A78BFA?style=for-the-badge&logoColor=white" height="50"/>
 </p>
 
-### 🌐 Full-Stack (Projects)
+### 📊 Dashboarding & Visualization
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite,prisma&theme=dark" height="50"/>
-  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="50"/>
+  <img src="https://img.shields.io/badge/Databricks%20AI%2FBI-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Delta%20Live%20Tables-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="50"/>
 </p>
 
 ---
----
----
----
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Ananyagupta1812/Mind_Space">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananyagupta1812&repo=Mind_Space&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA&description_lines_count=3" />
-</a>
-
-</div>
-
-<br/>
 
 <table>
 <tr>
@@ -133,7 +122,7 @@ class Ananya:
 </td>
 <td width="50%" valign="top">
 
-#### 🚦 Traffic Saarthi — Urban Route Optimization
+#### 🚦 [Traffic Saarthi](https://github.com/Ananyagupta1812/Traffic-Saarthi) — Urban Route Optimization
 
 > Real-time CV pipeline for smarter city navigation
 
@@ -180,7 +169,7 @@ class Ananya:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananyagupta1812)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ananyagupta1812)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananya@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://ananyagupta.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://classy-starship-928758.netlify.app/)
 
 </div>
 
@@ -191,8 +180,6 @@ class Ananya:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 
 <br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Ananyagupta1812&color=A78BFA&style=flat-square&label=Profile+Views)
 
 *"Turning raw data into decisions — one pipeline at a time."* 🚀
 
