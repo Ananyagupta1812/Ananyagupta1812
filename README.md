@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:A78BFA&height=220&section=header&text=Ananya%20Gupta&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Open-Source%20Contributor&descAlignY=60&descSize=18&descColor=E9D5FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:A78BFA&height=220&section=header&text=Ananya%20Gupta&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Pipeline%20Architect&descAlignY=60&descSize=18&descColor=E9D5FF" width="100%"/>
 
 <br/>
 
@@ -99,44 +99,8 @@ class Ananya:
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ananyagupta1812&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyagupta1812&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&langs_count=8" />
-
-</div>
-
-<div align="center">
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ananyagupta1812&theme=radical&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=ffffff)](https://git.io/streak-stats)
-
-</div>
-
 ---
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Ananya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananyagupta1812&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&area_color=6D28D9&hide_border=true&custom_title=Ananya%27s%20Contribution%20Graph&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ananyagupta1812&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects
